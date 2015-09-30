@@ -31,7 +31,7 @@ public class CopyOfDutchNationalFlag {
 	// @exclude
 	private static List<Integer> randVector(int len) {
 		Random gen = new Random();
-		List<Integer> ret = new ArrayList<>();
+		List<Integer> ret = new ArrayList<Integer>();
 		while ((len--) > 0) {
 			ret.add(gen.nextInt(3));
 		}

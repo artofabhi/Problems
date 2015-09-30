@@ -1,4 +1,4 @@
-package com.abhi.mywork.cc.chap01;
+package com.abhi.mywork.careercup.chap01;
 
 import static com.abhi.mywork.util.SOP.*;
 

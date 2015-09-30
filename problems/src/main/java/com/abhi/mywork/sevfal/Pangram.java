@@ -1,4 +1,4 @@
-package com.abhi.mywork.apple;
+package com.abhi.mywork.sevfal;
 
 import com.abhi.mywork.util.SOP;
 
@@ -65,7 +65,7 @@ public static boolean isPangram(String sentence)
 {
 
     // null empty checks 
-    if (sentence == null || sentence.lenth() == 0 ) {
+    if (sentence == null || sentence.lenth() == 0 || sentence.length() < 26) {
         return false ; 
     }
     

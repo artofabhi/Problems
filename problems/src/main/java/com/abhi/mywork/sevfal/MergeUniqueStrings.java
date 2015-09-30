@@ -1,4 +1,4 @@
-package com.abhi.mywork.apple;
+package com.abhi.mywork.sevfal;
 
 
 public class MergeUniqueStrings {

@@ -1,4 +1,4 @@
-package com.abhi.mywork.epi_ch07;
+package com.abhi.mywork.epi_ch07_linkedlists;
 
 import com.abhi.mywork.util.SOP;
 

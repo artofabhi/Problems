@@ -62,12 +62,14 @@ public class MergeSortedLinkLists {
 			}
 			tail = tail.next ;
 		}
-		if (a != null) {
-			tail.next = a ; 
-			
-		} else if (b != null ) {
-			tail.next = b ;
-		}
+
+		tail.next = (a != null) ? a : b ;
+//		if (a != null) {
+//			tail.next = a ;
+//
+//		} else if (b != null ) {
+//			tail.next = b ;
+//		}
 		return dummyNode.next ;
 	}
 
