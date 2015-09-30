@@ -1,4 +1,4 @@
-package com.abhi.mywork.careercup.ch02;
+package com.abhi.mywork.coffeecup.ch02;
 
 public class RemoveDupsLinklist {
 
